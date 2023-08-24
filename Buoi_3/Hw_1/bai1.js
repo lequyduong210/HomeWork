@@ -1,4 +1,5 @@
-
+/*
+ */
 
 function login(){
     var soNgay = document.getElementById("so-ngay").value*1;
